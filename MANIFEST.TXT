@@ -1,0 +1,23 @@
+Analysis.html (text/html) 518431 bytes.
+Analysis.ipynb (application/octet-stream) 267024 bytes.
+fig 1 - data.tab (text/tab-separated-values) 270 bytes.
+fig 2 - data.tab (text/tab-separated-values) 409 bytes.
+fig 3 - data.tab (text/tab-separated-values) 415 bytes.
+fig 4 - data.tab (text/tab-separated-values) 2376 bytes.
+fig 5 - data.csv (text/csv) 319 bytes.
+fig 6 - data.tab (text/tab-separated-values) 127 bytes.
+fig 7 - data.csv (text/csv) 343 bytes.
+fig 8 - data.csv (text/csv) 346 bytes.
+fig 9 - data.tab (text/tab-separated-values) 130 bytes.
+fig1.png (image/png) 20208 bytes.
+fig2.png (image/png) 21940 bytes.
+fig3.png (image/png) 16395 bytes.
+fig4.png (image/png) 25570 bytes.
+fig5.png (image/png) 27030 bytes.
+fig6.png (image/png) 17754 bytes.
+fig7.png (image/png) 26542 bytes.
+fig8.png (image/png) 26124 bytes.
+fig9.png (image/png) 19541 bytes.
+table 1.tab (text/tab-separated-values) 3774 bytes.
+table 2.tab (text/tab-separated-values) 1258 bytes.
+table 3.tab (text/tab-separated-values) 4747 bytes.
