@@ -1,6 +1,8 @@
 # Harvard-Paper
 
-This is the code for our Harvard-published paper, which can be found at https://techscience.org/a/2015081104/. The paper has also been mentioned in [Forbes](https://www.forbes.com/sites/sarahhedgecock/2015/08/28/how-two-harvard-grads-want-to-change-the-face-of-health-insurance/#62881bea4d6a), [The Atlantic](theatlantic.com/technology/archive/2015/11/the-algorithm-that-will-buy-you-health-insurance-honeyinsured/414765/), [CNBC](http://www.cnbc.com/2015/08/28/whos-charging-more-for-obamacare-plans-surprise.html).
+This is the code and data for our Harvard-published paper, which can be found at https://techscience.org/a/2015081104/. The replicate data and code can be found at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GFTHAN
+
+The paper has also been mentioned in [Forbes](https://www.forbes.com/sites/sarahhedgecock/2015/08/28/how-two-harvard-grads-want-to-change-the-face-of-health-insurance/#62881bea4d6a), [The Atlantic](https://www.theatlantic.com/technology/archive/2015/...honeyinsured/414765/), [CNBC](http://www.cnbc.com/2015/08/28/whos-charging-more-for-obamacare-plans-surprise.html).
 
 The steps referenced in the ipynb file correspond to the steps in our paper.
 
