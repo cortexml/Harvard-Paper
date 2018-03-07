@@ -16,6 +16,4 @@ Impact:
 
 Cited in both House and Senate testimonies, caused Center for Medicare & Medicaid (CMS) to conduct an emergency review and revision of insurance companies' risk corridor data.
 
-Launched HoneyInsured.com, a health insurance recommendation engine with 5-min enrollment. Story about the Authors and source code available [here](https://github.com/cortexml/HoneyInsured-Front).
-
 Thanks for reading me! :)
